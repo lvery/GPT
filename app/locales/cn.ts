@@ -311,11 +311,11 @@ const cn = {
 
     Access: {
       SaasStart: {
-        Title: "使用 NextChat AI",
-        Label: "（性价比最高的方案）",
+        Title: "邻议社区",
+        Label: "（杨林万能墙）",
         SubTitle:
-          "由 NextChat 官方维护, 零配置开箱即用，支持 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
-        ChatNow: "立刻对话",
+          "由 邻议 官方维护, 免费提供大学服务，完美替代传统表白墙，支持图片，视频，pdf，网址，html等内容发帖",
+        ChatNow: "立刻前往",
       },
       AccessCode: {
         Title: "访问密码",
