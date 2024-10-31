@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "NextChat",
+    "productName": "邻议智慧",
     "version": "2.15.6"
   },
   "tauri": {
@@ -110,7 +110,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "NextChat",
+        "title": "邻议智慧",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
